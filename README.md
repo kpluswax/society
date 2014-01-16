@@ -2,4 +2,4 @@
 
 This is the chillest thing ever.  It's the society sample application for [*One Month Rails*] 
 
-by [Kevin Weeks]
+by [Kevin Weeks](https://twitter.com/kp_weeks)
