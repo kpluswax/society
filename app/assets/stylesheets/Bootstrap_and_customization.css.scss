@@ -1,7 +1,18 @@
-$body-bg:  #7f8c8d;
-$navbar-inverse-bg:  #34495e;
-$navbar-inverse-link-color: #bdc3c7;
-$brand-primary: #c0392b;
-$jumbotron-bg: #bdc3c7;
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700);
+
+$body-bg:  									#7f8c8d;
+$font-family-sans-serif: 		'Alegreya Sans', sans-serif;
+$navbar-default-bg:  				#34495e;
+$navbar-default-link-color: #bdc3c7;
+$brand-primary: 						#c0392b;
+$jumbotron-bg: 							#bdc3c7;
 
 @import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
